@@ -25,7 +25,7 @@ public:
 	
 	int executer() const override
 	{
-		
+		std::cout << "pouet\n";
 	}
 	//on demlande la valeur pour cette variable, on sauvegarde la nouvelle valeur, puis on la retourne
 
